@@ -66,9 +66,9 @@ The AI Interview Trainer Agent is an enterprise-grade interview coaching platfor
 
 3. **Configure Environment Variables**
    ```
-   export WATSONX_PROJECT_ID="ec2e1183-e1dc-43af-8714-f726cfc33605"
-   export IBM_CLOUD_API_KEY="3evADpEfzYv9hARKXAdQYrVex9WC7D41gkO5yMzmwZSO"
-   export WATSON_ML_URL="[your-watson-ml-url](https://us-south.ml.cloud.ibm.com)"
+  export WATSONX_PROJECT_ID="your-project-id"
+export IBM_CLOUD_API_KEY="your-api-key"
+export WATSON_ML_URL="your-watson-ml-url"
    ```
 
 4. **Install Dependencies**
